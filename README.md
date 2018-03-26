@@ -1,0 +1,2 @@
+# nndyn
+Neural network library
